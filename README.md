@@ -12,6 +12,7 @@ Joanne's testing line
 #activty 
 
 #Steps
-#Contributor 1 - commit a change, push, then verify change in github (i.e. remote repo).
+#1 Contributor 1 - commit a change, push, then verify change in github (i.e. remote repo).
 
+#3 Contributor 1 - commit a change, push, then verify change in github.
 

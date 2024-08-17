@@ -17,3 +17,5 @@ Joanne's testing line
 #3 Contributor 1 - commit a change, push, then verify change in github.
 
 activity 2 testing
+
+git push force testing

@@ -8,3 +8,10 @@ Joanne's testing line
 
 ## testing conflicts
 2nd change by joanne
+
+#activty 
+
+#Steps
+#Contributor 1 - commit a change, push, then verify change in github (i.e. remote repo).
+
+

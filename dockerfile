@@ -15,3 +15,6 @@ EXPOSE ${APP_PORT}
 
 # Run the application.
 CMD python app.py
+
+#comments from aldin's local
+
